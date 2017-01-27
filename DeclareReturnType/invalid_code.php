@@ -1,6 +1,6 @@
 <?php
 /**
- * here are all invalid code
+ * all code in this file are invalid use
  * you can uncomment code by remove the # to see errors
  */
 

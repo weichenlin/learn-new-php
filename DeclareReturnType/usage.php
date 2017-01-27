@@ -1,5 +1,6 @@
 <?php
 /**
+ * require php 7.0, some feature need php 7.1
  * valid types: array, bool, callable, class name, float, int, interface name, self, string, void
  * all code here are valid
  */
